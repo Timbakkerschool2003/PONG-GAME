@@ -1,0 +1,7 @@
+C:\Users\Timba\Documents\GitHub\Pong\Pong\bin\Debug\Pong.exe.config
+C:\Users\Timba\Documents\GitHub\Pong\Pong\bin\Debug\Pong.exe
+C:\Users\Timba\Documents\GitHub\Pong\Pong\bin\Debug\Pong.pdb
+C:\Users\Timba\Documents\GitHub\Pong\Pong\obj\Debug\Pong.csproj.AssemblyReference.cache
+C:\Users\Timba\Documents\GitHub\Pong\Pong\obj\Debug\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Timba\Documents\GitHub\Pong\Pong\obj\Debug\Pong.exe
+C:\Users\Timba\Documents\GitHub\Pong\Pong\obj\Debug\Pong.pdb
